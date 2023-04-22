@@ -1,0 +1,1 @@
+class CreateRoomDateFilledOne1Model { }
