@@ -1,0 +1,1 @@
+class LiveChat1HostsTwoModel { }

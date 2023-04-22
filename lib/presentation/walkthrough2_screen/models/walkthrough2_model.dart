@@ -1,0 +1,1 @@
+class Walkthrough2Model { }

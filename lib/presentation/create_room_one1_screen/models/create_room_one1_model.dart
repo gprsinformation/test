@@ -1,0 +1,1 @@
+class CreateRoomOne1Model { }
